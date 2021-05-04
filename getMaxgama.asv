@@ -1,7 +1,0 @@
-function maxgama = getMaxgama(matrix, m, n)
-% within a 3 ¡Á 3 multiscale sliding window centred around each coefficient xj
-%  compute the maximum dispersion in the current wavelet subband
-size1 = size(matrix);
-A = matrix()
-maxgama = max(max(A));
-    
